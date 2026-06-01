@@ -1,0 +1,96 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": null, "name": "ESPN Cricinfo" },
+      "author": "John Smith",
+      "title": "India defeats Australia in thrilling ODI match",
+      "description": "India secured a dramatic victory against Australia in the final over.",
+      "url": "https://example.com/cricket1",
+      "urlToImage": "https://picsum.photos/300/200?1",
+      "publishedAt": "2026-06-01T10:00:00Z"
+    },
+    {
+      "source": { "id": null, "name": "Cricbuzz" },
+      "author": "Amit Sharma",
+      "title": "Virat Kohli scores century in comeback match",
+      "description": "Virat Kohli returned to form with a brilliant century.",
+      "url": "https://example.com/cricket2",
+      "urlToImage": "https://picsum.photos/300/200?2",
+      "publishedAt": "2026-06-01T09:30:00Z"
+    },
+    {
+      "source": { "id": null, "name": "Sports Today" },
+      "author": "Rahul Verma",
+      "title": "IPL franchise announces new captain",
+      "description": "The team management has named a new captain for the upcoming season.",
+      "url": "https://example.com/cricket3",
+      "urlToImage": "https://picsum.photos/300/200?3",
+      "publishedAt": "2026-06-01T09:00:00Z"
+    },
+    {
+      "source": { "id": null, "name": "BBC Sport" },
+      "author": "Sarah Lee",
+      "title": "England prepares for Ashes series",
+      "description": "England's squad is gearing up for the much-awaited Ashes series.",
+      "url": "https://example.com/cricket4",
+      "urlToImage": "https://picsum.photos/300/200?4",
+      "publishedAt": "2026-06-01T08:45:00Z"
+    },
+    {
+      "source": { "id": null, "name": "Sky Sports" },
+      "author": "Michael Brown",
+      "title": "New Zealand announces World Cup squad",
+      "description": "The selectors have finalized the squad for the tournament.",
+      "url": "https://example.com/cricket5",
+      "urlToImage": "https://picsum.photos/300/200?5",
+      "publishedAt": "2026-06-01T08:00:00Z"
+    },
+    {
+      "source": { "id": null, "name": "Cricbuzz" },
+      "author": "Priya Nair",
+      "title": "Rohit Sharma reaches major milestone",
+      "description": "The Indian captain achieved another milestone in international cricket.",
+      "url": "https://example.com/cricket6",
+      "urlToImage": "https://picsum.photos/300/200?6",
+      "publishedAt": "2026-06-01T07:30:00Z"
+    },
+    {
+      "source": { "id": null, "name": "Sportskeeda" },
+      "author": "Ankit Jain",
+      "title": "Top five moments from IPL 2026",
+      "description": "A look back at the most exciting moments of the season.",
+      "url": "https://example.com/cricket7",
+      "urlToImage": "https://picsum.photos/300/200?7",
+      "publishedAt": "2026-06-01T07:00:00Z"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "David Miller",
+      "title": "Pakistan wins T20 series against South Africa",
+      "description": "Pakistan clinched the series with a dominant performance.",
+      "url": "https://example.com/cricket8",
+      "urlToImage": "https://picsum.photos/300/200?8",
+      "publishedAt": "2026-06-01T06:45:00Z"
+    },
+    {
+      "source": { "id": null, "name": "Fox Sports" },
+      "author": "Chris Taylor",
+      "title": "Young spinner impresses in debut match",
+      "description": "The youngster delivered a match-winning performance.",
+      "url": "https://example.com/cricket9",
+      "urlToImage": "https://picsum.photos/300/200?9",
+      "publishedAt": "2026-06-01T06:15:00Z"
+    },
+    {
+      "source": { "id": null, "name": "ESPN Cricinfo" },
+      "author": "Mark Wilson",
+      "title": "ICC releases updated player rankings",
+      "description": "Several players have moved up in the latest rankings.",
+      "url": "https://example.com/cricket10",
+      "urlToImage": "https://picsum.photos/300/200?10",
+      "publishedAt": "2026-06-01T06:00:00Z"
+    }
+  ]
+}
