@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+// Removed invalid import statement
 export class Navbar extends Component {
   render() {
     return (
@@ -36,3 +36,21 @@ export class Navbar extends Component {
 }
 
 export default Navbar;
+
+// Sample JSON that would be in sampleoutput.json
+export const sampleoutput = {
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Example" },
+      "author": "News Bot",
+      "title": "Sample Article",
+      "description": "This is a sample article for testing.",
+      "url": "https://example.com/sample-article",
+      "urlToImage": "https://example.com/image.jpg",
+      "publishedAt": "2025-01-01T00:00:00Z",
+      "content": "Full content of the sample article."
+    }
+  ]
+};
